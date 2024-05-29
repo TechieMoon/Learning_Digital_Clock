@@ -1,5 +1,5 @@
 # Learning_Digital_Clock
-Digital Clock and Description
+Digital Clock using logisim and Description
 
 You can download the `digital_clock.circ` file and try running it yourself.
 
