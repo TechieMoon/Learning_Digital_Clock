@@ -1,8 +1,10 @@
 # Learning_Digital_Clock
 Digital Clock and Description
 
-![Slide 1]([URL_TO_IMAGE_1](https://github.com/TechieMoon/Learning_Digital_Clock/blob/main/Slides/Slide 1.PNG))
+![Slide 1]([URL_TO_IMAGE_1](https://github.com/TechieMoon/Learning_Digital_Clock/blob/main/Slides/Slide%201.PNG))
+
 ![Slide 2]([URL_TO_IMAGE_1](https://github.com/TechieMoon/Learning_Digital_Clock/blob/main/Slides/Slide%202.PNG))
+
 ![Slide 3]([URL_TO_IMAGE_1](https://github.com/TechieMoon/Learning_Digital_Clock/blob/main/Slides/Slide%203.PNG))
 ![Slide 4]([URL_TO_IMAGE_1](https://github.com/TechieMoon/Learning_Digital_Clock/blob/main/Slides/Slide%204.PNG))
 ![Slide 5]([URL_TO_IMAGE_1](https://github.com/TechieMoon/Learning_Digital_Clock/blob/main/Slides/Slide%205.PNG))
