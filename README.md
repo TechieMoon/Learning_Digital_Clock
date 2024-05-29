@@ -1,6 +1,8 @@
 # Learning_Digital_Clock
 Digital Clock and Description
 
+You can download the `digital_clock.circ` file and try running it yourself.
+
 ![Slide 1](https://github.com/TechieMoon/Learning_Digital_Clock/blob/main/Slides/Slide%201.PNG)
 ![Slide 2](https://github.com/TechieMoon/Learning_Digital_Clock/blob/main/Slides/Slide%202.PNG)
 ![Slide 3](https://github.com/TechieMoon/Learning_Digital_Clock/blob/main/Slides/Slide%203.PNG)
